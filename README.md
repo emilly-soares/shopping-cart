@@ -1,11 +1,52 @@
-# Sample Snack app
+# Lista de Compras Expo 📝🛒
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Um aplicativo de lista de compras desenvolvido usando React Native e Expo.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Instalação 🚀
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Certifique-se de ter o Expo CLI instalado.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+1. Clone o repositório:
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+    ```bash
+    git clone https://github.com/emilly-soares/shopping-cart.git
+    ```
+
+2. Navegue até o diretório do projeto:
+
+    ```bash
+    cd shopping-cart
+    ```
+
+3. Instale as dependências:
+
+    ```bash
+    npm install
+    ```
+
+4. Inicie o projeto:
+
+    ```bash
+    npm start
+    ```
+
+5. Abra o aplicativo Expo Go no seu dispositivo ou emulador para visualizar o aplicativo.
+
+## Funcionalidades 🛍️
+
+- Adicione produtos à lista com nome, marca, preço e quantidade.
+- Remova produtos da lista.
+- Calcule a quantidade total de produtos na lista.
+- Calcule o valor total da compra.
+
+## Screenshots 📸
+
+
+
+## Contribuição 🤝
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
+
+## Licença 📄
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
