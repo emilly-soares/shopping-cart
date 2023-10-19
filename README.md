@@ -41,6 +41,7 @@ Certifique-se de ter o Expo CLI instalado.
 
 ## Screenshots 📸
 
+![git](https://github.com/emilly-soares/shopping-cart/assets/54116441/ec33f2e4-b9ac-4a7f-85f4-4e03154a1ce9)
 
 
 ## Contribuição 🤝
